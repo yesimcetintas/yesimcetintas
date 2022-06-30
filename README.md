@@ -1,5 +1,5 @@
-## Hi I'm Yeşim 👋 <br/> Software Developer Bootcamp Student
-
+## Hi I'm Yeşim 👋 
+**Software Developer Bootcamp Student**
 
 <!--
 **yesimcetintas/yesimcetintas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
