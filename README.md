@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 * CSS
 * JavaScript
 * React
+* TypeScript
 
 ### Tools:
 * Vs Code
