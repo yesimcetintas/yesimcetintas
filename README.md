@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning **React, JavaScript, TypeScript**.
+- 🌱 I’m currently learning **Next.js**.
 - 📫 How to reach me: yesimturker@outlook.com
 
 ### Connect with me:
