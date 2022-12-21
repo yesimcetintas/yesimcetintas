@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning **Next.js**.
+- 🌱 I’m currently learning **Next.js, MongoDB**.
 - 📫 How to reach me: yesimturker@outlook.com
 
 ### Connect with me:
@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 * JavaScript
 * HTML
 * CSS
+* ContextAPI
+* Redux
 
 ### Tools:
 * Vs Code
