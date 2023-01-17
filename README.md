@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning **Next.js, MongoDB**.
+- 🌱 I’m currently learning ** C# **.
 - 📫 How to reach me: yesimturker@outlook.com
 
 ### Connect with me:
 [Linkedin](https://www.linkedin.com/in/yesimcetintas/)
 
 ### Technologies:
+* MongoDB
+* Next.js
 * TypeScript
 * React
 * JavaScript
