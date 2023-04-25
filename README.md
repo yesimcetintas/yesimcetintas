@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning ** C# **.
+- 🌱 I’m currently learning ** NodeJS **.
 - 📫 How to reach me: yesimturker@outlook.com
 
 ### Connect with me:
